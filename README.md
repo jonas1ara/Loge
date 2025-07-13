@@ -1,10 +1,8 @@
 # Loge: A C Compiler Written in C
 
-<!--
 ## The Spark of Creation
 
 Like Loge, the cunning fire god from Wagner's Das Rheingold, I am no traditional compiler craftsman. Yet, driven by the spark of curiosity and a passion for creation, I am forging **Loge**, a compiler for the C programming language written in C. This project is my Valhalla—a monument to the power of personal exploration, built outside the confines of my professional domain.
--->
 
 ## Project Overview
 
